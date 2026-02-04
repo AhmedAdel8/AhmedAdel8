@@ -2,7 +2,7 @@
   <img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Ahmed+Adel;A+passionate+Mobile+developer">
 </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱I am a passionate Flutter developer focused on building high-performance cross-platform mobile apps for Android and iOS. Skilled in Dart, UI/UX implementation, API integration, and optimization, I care about clean code, thorough testing, and attention to detail. I continuously follow the latest Flutter and mobile trends to deliver modern, scalable, and reliable solutions
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/AhmedAdel8?tab=repositories)
 
